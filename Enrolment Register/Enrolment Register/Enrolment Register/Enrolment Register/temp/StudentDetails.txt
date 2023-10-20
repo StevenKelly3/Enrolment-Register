@@ -1,0 +1,15 @@
+Ian,01/01/2001,Female,PT,1,2,1500
+Mary,05/06/2002,Female,FT,1,4,5000
+Joe,27/02/2001,Male,FT,3,6,2500
+Ann,12/09/2000,Other,FT,3,6,2500
+Steven,12/05/2004,Male,FT,1,3,5000
+Cody,27/06/2004,Male,FT,1,3,5000
+Liam,21/09/2003,Male,FT,1,3,5000
+Emily,24/04/2004,Female,PT,3,4,3000
+Jack,03/01/2000,Other,FT,3,3,2500
+Aoife,03/09/2013,Female,FT,1,2,5000
+Caitlin,24/12/2004,Female,PT,1,2,1500
+Johnny,21/12/0001,Male,PT,2,1,750
+Ryan,30/10/2000,Male,FT,4,3,5000
+False,28/02/2024,Male,PT,4,1,750
+Robbie,30/12/1212,Female,PT,1,1,750
